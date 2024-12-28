@@ -122,7 +122,7 @@ pygtrie==2.5.0
 pymdown-extensions==10.13
 pyOpenSSL==24.2.1
 pyparsing==3.2.0
-pytest==7.4.3
+pytest==8.3.4
 python-dateutil==2.9.0.post0
 PyYAML==6.0.2
 pyyaml_env_tag==0.1
